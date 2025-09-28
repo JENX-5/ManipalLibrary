@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MIT Manipal Library Portal</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/animations.css">
+</head>
+<body>
+    <!-- Navbar -->
+    <nav class="navbar">
+        <div class="nav-brand">
+            <img src="images/logo.png" alt="MIT Logo" class="nav-logo">
+            <h1 class="nav-title">MIT Manipal Library</h1>
+        </div>
+        <div class="nav-links">
+            <a href="index.html" class="nav-link active">Home</a>
+            <a href="resources.html" class="nav-link">Resources</a>
+            <a href="papers.html" class="nav-link">Papers</a>
+            <a href="contact.html" class="nav-link">Contact</a>
+            <a href="login.html" class="nav-button">Login</a>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section class="hero" style="background-image: url('images/library-hero.jpg'); background-size: cover; background-position: center;">
+        <div class="hero-overlay"></div>
+        <div class="hero-content">
+            <h2 class="hero-title" data-animate="fade-up">Welcome to MIT Manipal Library</h2>
+            <p class="hero-description" data-animate="fade-up" data-delay="200">
+                Explore books, e-resources, journals, and previous question papers all in one place.
+            </p>
+            <a href="papers.html" class="hero-button" data-animate="fade-up" data-delay="400">
+                Explore Resources
+            </a>
+        </div>
+    </section>
+
+    <!-- About Section -->
+    <section class="about">
+        <div class="container">
+            <h3 class="about-title" data-animate="fade-right">About the Library</h3>
+            <p class="about-description" data-animate="fade-left">
+                The MIT Manipal Library provides students and faculty access to a wide range of learning resources, including e-books, journals, research papers, and more. Our mission is to support academic excellence and research at MIT Manipal.
+            </p>
+        </div>
+    </section>
+
+    <!-- Quick Access Section -->
+    <section class="quick-access">
+        <div class="container">
+            <h3 class="section-title" data-animate="fade-up">Quick Access</h3>
+            <div class="cards-grid">
+                <!-- E-Books Card -->
+                <div class="access-card" data-animate="zoom-in">
+                    <div class="card-content">
+                        <h4 class="card-title">E-Books</h4>
+                        <p class="card-description">Browse our academic e-books collection online across all subjects.</p>
+                    </div>
+                    <a href="resources.html" class="card-button">Explore</a>
+                </div>
+                
+                <!-- Question Papers Card -->
+                <div class="access-card" data-animate="zoom-in" data-delay="200">
+                    <div class="card-content">
+                        <h4 class="card-title">Question Papers</h4>
+                        <p class="card-description">Find past semester papers filtered by branch, semester, subject, and year.</p>
+                    </div>
+                    <a href="papers.html" class="card-button">Explore</a>
+                </div>
+                
+                <!-- Filters & Search Card -->
+                <div class="access-card" data-animate="zoom-in" data-delay="400">
+                    <div class="card-content">
+                        <h4 class="card-title">Filters & Search</h4>
+                        <p class="card-description">Quickly find resources with search and filter options for all materials.</p>
+                    </div>
+                    <a href="resources.html" class="card-button">Go</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <footer class="footer">
+        <p>&copy; 2025 MIT Manipal Library. All rights reserved.</p>
+    </footer>
+
+    <script src="js/animations.js"></script>
+    <script src="js/app.js"></script>
+</body>
+</html>

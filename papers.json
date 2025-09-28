@@ -1,0 +1,435 @@
+[
+  {
+    "title": "CHEMISTRY - Semester 1,2",
+    "branch": "CSE",
+    "semester": "1,2",
+    "subject": "CHEM",
+    "year": "2023",
+    "link": "papers/Sem-1/CSE_SEM1_CHEM_2023.pdf"
+  },
+  {
+    "title": "EMSB - Semester 1,2",
+    "branch": "CSE",
+    "semester": "1,2",
+    "subject": "EMSB",
+    "year": "2024",
+    "link": "papers/Sem-1/CSE_SEM1_EMSB_2024.pdf"
+  },
+  {
+    "title": "EVS - Semester 1,2",
+    "branch": "CSE",
+    "semester": "1,2",
+    "subject": "EVS",
+    "year": "2024",
+    "link": "papers/Sem-1/CSE_SEM1_EVS_2024.pdf"
+  },
+  {
+    "title": "BMES - Semester 1,2",
+    "branch": "CSE",
+    "semester": "1,2",
+    "subject": "BMES",
+    "year": "2024",
+    "link": "papers/Sem-2/CSE_SEM2_BMES_2024.pdf"
+  },
+  {
+    "title": "ENGLISH - Semester 1,2",
+    "branch": "CSE",
+    "semester": "1,2",
+    "subject": "ENG",
+    "year": "2024",
+    "link": "papers/Sem-2/CSE_SEM2_ENG_2024.pdf"
+  },
+  {
+    "title": "FE - Semester 1,2",
+    "branch": "CSE",
+    "semester": "1,2",
+    "subject": "FE",
+    "year": "2024",
+    "link": "papers/Sem-2/CSE_SEM2_FE_2024.pdf"
+  },
+  {
+    "title": "IOOP - Semester 1,2",
+    "branch": "CSE",
+    "semester": "1,2",
+    "subject": "IOOP",
+    "year": "2024",
+    "link": "papers/Sem-2/CSE_SEM2_IOOP_2024.pdf"
+  },
+  {
+    "title": "MATHS 2 - Semester 2",
+    "branch": "CSE",
+    "semester": "2",
+    "subject": "MATHS2",
+    "year": "2024",
+    "link": "papers/Sem-2/CSE_SEM2_MATHS_2024.pdf"
+  },
+  {
+    "title": "PHYSICS - Semester 1,2",
+    "branch": "CSE",
+    "semester": "1,2",
+    "subject": "PHY",
+    "year": "2024",
+    "link": "papers/Sem-2/CSE_SEM2_PHYSICS_2024.pdf"
+  },
+  {
+    "title": "PPS - Semester 1,2",
+    "branch": "CSE",
+    "semester": "1,2",
+    "subject": "PPS",
+    "year": "2024",
+    "link": "papers/Sem-1/CSE_SEM1_PPS_2024.pdf"
+  },
+  {
+    "title": "MATHS 1 - Semester 1",
+    "branch": "CSE",
+    "semester": "1",
+    "subject": "MATHS1",
+    "year": "2024",
+    "link": "papers/Sem-1/CSE_SEM1_MATHS1_2024.pdf"
+  },
+  {
+    "title": "DATA STRUCTURES - Semester 3",
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "DS",
+    "year": "2023",
+    "link": "papers/Sem-3/DS/Data Structures (CSE 2122) (2).pdf"
+  },
+  {
+    "title": "DATA STRUCTURES - Semester 3",
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "DS",
+    "year": "2023",
+    "link": "papers/Sem-3/DS/Data Structures (ICT 2121).pdf"
+  },
+  {
+    "title": "DATA STRUCTURES(MAKEUP) - Semester 3",
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "DS",
+    "year": "2024",
+    "link": "papers/Sem-3/DS/Data Structures (ICT 2121)(Makeup).pdf"
+  },
+  {
+    "title": "DCCN - Semester 3",
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "DCCN",
+    "year": "2023",
+    "link": "papers/Sem-3/DCCN/Principles of Data Communication (ICT 2124).pdf"
+  },
+  {
+    "title": "DCCN - Semester 3",
+    "branch": "CSE",
+    "semester": "3",
+    "subject": "DCCN",
+    "year": "2022",
+    "link": "papers/Sem-3/DCCN/Principles of Data Communication (ICT 2156).pdf"
+  },
+  {
+    "title": "DSCO - Semester 3",
+    "branch": "CSE,ECE,ME",
+    "semester": "3",
+    "subject": "DSCO",
+    "year": "2019",
+    "link": "papers/Sem-3/DSCO/Digital Systems and Computer Organization (ICT 2171)RCS).pdf"
+  },
+  {
+    "title": "DSCO - Semester 3",
+    "branch": "CSE,ECE,ME",
+    "semester": "3",
+    "subject": "DSCO",
+    "year": "2023",
+    "link": "papers/Sem-3/DSCO/Digital system Design (CSE 2123).pdf"
+  },
+  {
+    "title": "DSCO(Makeup) - Semester 3",
+    "branch": "CSE,ECE,ME",
+    "semester": "3",
+    "subject": "DSCO",
+    "year": "2024",
+    "link": "papers/Sem-3/DSCO/Digital system Deisgn (CSE 2123)(Makeup).pdf"
+  },
+  {
+    "title": "DSCO(Makeup) - Semester 3",
+    "branch": "CSE,ECE,ME",
+    "semester": "3",
+    "subject": "DSCO",
+    "year": "2024",
+    "link": "papers/Sem-3/DSCO/Computer Organization and Architecture (CSE 2121) (Makeup).pdf"
+  },
+  {
+    "title": "MATHS 3 - Semester 3",
+    "branch": "CSE,ECE,ME",
+    "semester": "3",
+    "subject": "MATHS3",
+    "year": "2024",
+    "link": "papers/Sem-3/Maths/Engineering Mathematics (MAT 2155).pdf"
+  },
+  {
+    "title": "MATHS 3 - Semester 3",
+    "branch": "CSE,ECE,ME",
+    "semester": "3",
+    "subject": "MATHS3",
+    "year": "2021",
+    "link": "papers/Sem-3/Maths/Engineering Mathematics -III (MAT 2126).pdf"
+  },
+  {
+    "title": "MATHS 3 - Semester 3",
+    "branch": "CSE,ECE,ME",
+    "semester": "3",
+    "subject": "MATHS3",
+    "year": "2022",
+    "link": "papers/Sem-3/Maths/Engineering Maths -III(MAT 2155).pdf"
+  },
+  {
+    "title": "AI - Semester 4",
+    "branch": "CSE",
+    "semester": "4",
+    "subject": "AI",
+    "year": "2024",
+    "link": "papers/Sem-4/CSE_SEM4_AI_2024.pdf"
+  },
+  {
+    "title": "DAOA - Semester 4",
+    "branch": "CSE",
+    "semester": "4",
+    "subject": "DAOA",
+    "year": "2024",
+    "link": "papers/Sem-4/CSE_SEM4_DAOA.pdf"
+  },
+  {
+    "title": "DBMS - Semester 4",
+    "branch": "CSE",
+    "semester": "4",
+    "subject": "DBMS",
+    "year": "2024",
+    "link": "papers/Sem-4/CSE_SEM4_DBMS_2024.pdf"
+  },
+  {
+    "title": "OS - Semester 4",
+    "branch": "CSE",
+    "semester": "4",
+    "subject": "DAOA",
+    "year": "2024",
+    "link": "papers/Sem-4/CSE_SEM4_OS_2024.pdf"
+  },
+  {
+    "title": "Industrial Pollution Control - Semester 5",
+    "branch": "Chemical",
+    "semester": "5",
+    "subject": "CIPC",
+    "year": "2020",
+    "link": "papers/Sem-5/CHEMICAL/CHEMICAL_Industrial Pollution Control_2020.pdf"
+  },
+  {
+    "title": "Mass Transfer - Semester 5",
+    "branch": "Chemical",
+    "semester": "5",
+    "subject": "Mass Transfer",
+    "year": "2020",
+    "link": "papers/Sem-5/CHEMICAL/CHEMICAL_Mass Transfer_2020.pdf"
+  },
+  {
+    "title": "Analysis of Interdeterminate Structure - Semester 5",
+    "branch": "Civil",
+    "semester": "5",
+    "subject": "AIS",
+    "year": "2022",
+    "link": "papers/Sem-5/CIVIL/CIVIL_Analysis of Indeterminate Structure_2022.pdf"
+  },
+
+  {
+    "title": "Basic Structural Steel Design - Semester 5",
+    "branch": "Civil",
+    "semester": "5",
+    "subject": "BSSD",
+    "year": "2022",
+    "link": "papers/Sem-5/CIVIL/CIVIL_Basic Structural Steel Design_2022.pdf"
+  },
+  {
+    "title": "Construction Management - Semester 5",
+    "branch": "Civil",
+    "semester": "5",
+    "subject": "CM",
+    "year": "2023",
+    "link": "papers/Sem-5/CIVIL/CIVIL_Construction Management_2023.pdf"
+  },
+  {
+    "title": "Geotechnical Engineering - Semester 5",
+    "branch": "Civil",
+    "semester": "5",
+    "subject": "GE",
+    "year": "2023",
+    "link": "papers/Sem-5/CIVIL/CIVIL_Geotechnical Engineering_2023.pdf"
+  },
+  {
+    "title": "Analog and Digital Communication - Semester 5",
+    "branch": "ECE",
+    "semester": "5",
+    "subject": "ADC",
+    "year": "2022",
+    "link": "papers/Sem-5/ECE/ECE_ANALOG_2022.pdf"
+  },
+  {
+    "title": "Analog and Digital Communication - Semester 5",
+    "branch": "ECE",
+    "semester": "5",
+    "subject": "ADC",
+    "year": "2024",
+    "link": "papers/Sem-5/ECE/ECE_ANALOG_2024.pdf"
+  },
+  {
+    "title": "Linear Control System - Semester 5",
+    "branch": "ECE",
+    "semester": "5",
+    "subject": "LCS",
+    "year": "2022",
+    "link": "papers/Sem-5/ECE/ECE_LINE-CONTROL_2022.pdf"
+  },
+  {
+    "title": "Microprocessors - Semester 5",
+    "branch": "ECE",
+    "semester": "5",
+    "subject": "Microprocessors",
+    "year": "2022",
+    "link": "papers/Sem-5/ECE/ECE_MICROPROCESSORS_2022.pdf"
+  },
+  {
+    "title": "Electronic Product Design and Packaging - Semester 5",
+    "branch": "ECE",
+    "semester": "5",
+    "subject": "EPDP",
+    "year": "2022",
+    "link": "papers/Sem-5/ECE/ECE_PRODUCT-DESIGN_2022.pdf"
+  },
+  {
+    "title": "Communication Systems - Semester 5",
+    "branch": "EEE",
+    "semester": "5",
+    "subject": "CS",
+    "year": "2022",
+    "link": "papers/Sem-5/EEE/EEE_Communication Systems_2022.pdf"
+  },
+  {
+    "title": "Digital Signal Processing - Semester 5",
+    "branch": "EEE",
+    "semester": "5",
+    "subject": "DSP",
+    "year": "2022",
+    "link": "papers/Sem-5/EEE/EEE_Digital Signal Processing_2022.pdf"
+  },
+  {
+    "title": "Measurment and Instrumentation - Semester 5",
+    "branch": "EEE",
+    "semester": "5",
+    "subject": "MAI",
+    "year": "2022",
+    "link": "papers/Sem-5/EEE/EEE_MEASUREMENTS AND INSTRUMENTATION_2022.pdf"
+  },
+  {
+    "title": "Power System Analysis - Semester 5",
+    "branch": "EEE",
+    "semester": "5",
+    "subject": "PSA",
+    "year": "2022",
+    "link": "papers/Sem-5/EEE/EEE_Power System Analysis_2022.pdf"
+  },
+  {
+    "title": "Power System Analysis - Semester 5",
+    "branch": "EEE",
+    "semester": "5",
+    "subject": "PSA",
+    "year": "2022",
+    "link": "papers/Sem-5/EEE/EEE_Power System Analysis_2022.pdf"
+  },
+  {
+    "title": "CAD-Cam - Semester 5",
+    "branch": "Mech",
+    "semester": "5",
+    "subject": "Cad-Cam",
+    "year": "2023",
+    "link": "papers/Sem-5/MECH/MECH_CAD CAM_2023.pdf"
+  },
+  {
+    "title": "Finite Element Methods- Semester 5",
+    "branch": "Mech",
+    "semester": "5",
+    "subject": "FEM",
+    "year": "2024",
+    "link": "papers/Sem-5/MECH/MECH_Finite Element Methods_2024.pdf"
+  },
+  {
+    "title": "Mechanical Design 1 - Semester 5",
+    "branch": "Mech",
+    "semester": "5",
+    "subject": "MD-1",
+    "year": "2024",
+    "link": "papers/Sem-5/MECH/MECH_Mechanical Deisgn-I_2024.pdf"
+  },
+  {
+    "title": "Turbo Machines - Semester 5",
+    "branch": "Mech",
+    "semester": "5",
+    "subject": "Turbo Machines",
+    "year": "2023",
+    "link": "papers/Sem-5/MECH/MECH_Turbo Machnies_2023.pdf"
+  },
+  {
+    "title": "Advanced Computer Networks - Semester 6",
+    "branch": "CSE",
+    "semester": "6",
+    "subject": "ADC",
+    "year": "2022",
+    "link": "papers/Sem-6/CSE/Advanced Computer Networks (CSE 4055) RCS_2022.pdf"
+  },
+  {
+    "title": "Big Data Modeling and Management - Semester 6",
+    "branch": "CSE",
+    "semester": "6",
+    "subject": "BDMM",
+    "year": "2022",
+    "link": "papers/Sem-6/CSE/Big Data modeling and Management (CRA 4055)RCS_2022.pdf"
+  },
+  {
+    "title": "Data Warehouse and Data Mining - Semester 6",
+    "branch": "CSE",
+    "semester": "6",
+    "subject": "DWDM",
+    "year": "2022",
+    "link": "papers/Sem-6/CSE/Data Warehouse and Data Mining_2022.pdf"
+  },
+  {
+    "title": "Digital Image Processing - Semester 6",
+    "branch": "CSE",
+    "semester": "6",
+    "subject": "DIP",
+    "year": "2022",
+    "link": "papers/Sem-6/CSE/Data Warehouse and Data Mining_2022.pdf"
+  },
+  {
+    "title": "Distrubed Systems - Semester 6",
+    "branch": "CSE",
+    "semester": "6",
+    "subject": "DS",
+    "year": "2022",
+    "link": "papers/Sem-6/CSE/Distrubuted Systems_2022.pdf"
+  },
+  {
+    "title": "Parallel Computer Programing and Architecture - Semester 6",
+    "branch": "CSE",
+    "semester": "6",
+    "subject": "PCPA",
+    "year": "2022",
+    "link": "papers/Sem-6/CSE/Parallel Computer Programing and Architecture_2022.pdf"
+  },
+  {
+    "title": "Principles of Cryptography - Semester 6",
+    "branch": "CSE",
+    "semester": "6",
+    "subject": "PC",
+    "year": "2022",
+    "link": "papers/Sem-6/CSE/Principles of Crytography_2022.pdf"
+  }
+]

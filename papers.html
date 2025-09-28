@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Previous Year Papers</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/animations.css">
+</head>
+<body class="papers-page">
+    <!-- Navbar -->
+    <nav class="navbar">
+        <div class="nav-brand">
+            <img src="images/logo.png" alt="MIT Logo" class="nav-logo">
+            <h1 class="nav-title">MIT Manipal Library</h1>
+        </div>
+        <div class="nav-links">
+            <a href="index.html" class="nav-link">Home</a>
+            <a href="resources.html" class="nav-link">Resources</a>
+            <a href="papers.html" class="nav-link active">Papers</a>
+            <a href="contact.html" class="nav-link">Contact</a>
+            <a href="login.html" class="nav-button">Login</a>
+        </div>
+    </nav>
+
+    <!-- Hero -->
+    <section class="papers-hero">
+        <div class="hero-content">
+            <h2 class="hero-title" data-animate="fade-up">Previous Year Papers</h2>
+            <p class="hero-description" data-animate="fade-up" data-delay="200">
+                Browse and filter past semester papers by branch, semester, subject, and year.
+            </p>
+        </div>
+    </section>
+
+    <!-- Filters -->
+    <section class="filters-section">
+        <div class="filters-container">
+            <select id="filterBranch" class="filter-select">
+                <option value="">All Branches</option>
+            </select>
+            <select id="filterSemester" class="filter-select">
+                <option value="">All Semesters</option>
+            </select>
+            <select id="filterSubject" class="filter-select">
+                <option value="">All Subjects</option>
+            </select>
+            <select id="filterYear" class="filter-select">
+                <option value="">All Years</option>
+            </select>
+        </div>
+    </section>
+
+    <!-- Papers Grid -->
+    <section class="papers-grid-container">
+        <div id="papersGrid" class="papers-grid"></div>
+        <div id="noResults" class="no-results" style="display: none;">
+            <p>No papers found matching your filters. Try adjusting your selection.</p>
+        </div>
+    </section>
+
+    <footer class="footer">
+        <p>&copy; 2025 MIT Manipal Library. All rights reserved.</p>
+    </footer>
+
+    <script src="js/animations.js"></script>
+    <script src="js/papers.js"></script>
+</body>
+</html>

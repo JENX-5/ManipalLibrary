@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Library Resources</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/animations.css">
+</head>
+<body class="resources-page">
+    <!-- Navbar -->
+    <nav class="navbar">
+        <div class="nav-brand">
+            <img src="images/logo.png" alt="MIT Logo" class="nav-logo">
+            <h1 class="nav-title">MIT Manipal Library</h1>
+        </div>
+        <div class="nav-links">
+            <a href="index.html" class="nav-link">Home</a>
+            <a href="resources.html" class="nav-link active">Resources</a>
+            <a href="papers.html" class="nav-link">Papers</a>
+            <a href="contact.html" class="nav-link">Contact</a>
+            <a href="login.html" class="nav-button">Login</a>
+        </div>
+    </nav>
+
+    <!-- Hero -->
+    <section class="resources-hero">
+        <div class="hero-overlay"></div>
+        <div class="hero-content">
+            <h2 class="hero-title" data-animate="fade-up">Library Resources</h2>
+            <p class="hero-description" data-animate="fade-up" data-delay="200">
+                Browse E-books 
+            </p>
+        </div>
+    </section>
+
+    <!-- E-books Section -->
+    <section class="ebooks-section">
+        <div class="container">
+            <h3 class="section-title" data-animate="fade-up">E-Books</h3>
+            <div class="ebooks-grid">
+                <div class="ebook-card" data-animate="zoom-in">
+                    <div class="card-content">
+                        <h4 class="card-title">Introduction to Algorithms</h4>
+                        <p class="card-author">Author: Thomas H. Cormen</p>
+                        <p class="card-year">Year: 2009</p>
+                    </div>
+                    <a href="https://example.com/ebook1.pdf" target="_blank" class="card-button">View</a>
+                </div>
+                
+                <div class="ebook-card" data-animate="zoom-in" data-delay="200">
+                    <div class="card-content">
+                        <h4 class="card-title">Computer Networks</h4>
+                        <p class="card-author">Author: Andrew S. Tanenbaum</p>
+                        <p class="card-year">Year: 2011</p>
+                    </div>
+                    <a href="https://example.com/ebook2.pdf" target="_blank" class="card-button">View</a>
+                </div>
+                
+                <div class="ebook-card" data-animate="zoom-in" data-delay="400">
+                    <div class="card-content">
+                        <h4 class="card-title">Digital Design</h4>
+                        <p class="card-author">Author: M. Morris Mano</p>
+                        <p class="card-year">Year: 2013</p>
+                    </div>
+                    <a href="https://example.com/ebook3.pdf" target="_blank" class="card-button">View</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <footer class="footer">
+        <p>&copy; 2025 MIT Manipal Library. All rights reserved.</p>
+    </footer>
+
+    <script src="js/animations.js"></script>
+    <script src="js/app.js"></script>
+</body>
+</html>
